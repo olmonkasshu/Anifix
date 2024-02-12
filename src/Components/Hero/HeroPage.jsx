@@ -70,6 +70,9 @@ const HeroPage = () => {
                 </div>
             </div>
         </div>
+        
+
+        
     );
 };
 
