@@ -1,6 +1,6 @@
 export default function MyCard() {
   return (
-    <div>
+    <div className="mx-20">
       <h3 className="ml-5 text-xl font-extrabold  md:ml-4 relative text-md w-fit block after:block after:content-[''] after:absolute after:h-[3px] after:bg-red-700 after:w-full after:scale-x-0 after:hover:scale-x-100 after:transition after:duration-300 after:origin-center">Recommended For You</h3>
       <div className="flex overflow-x-auto">
         <div className="relative w-52 h-auto m-5 hover:opacity-100">
